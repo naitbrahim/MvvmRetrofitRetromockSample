@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "pagination": {
+      "total": 1684,
+      "pages": 85,
+      "page": 1,
+      "limit": 20,
+      "links": {
+        "previous": null,
+        "current": "https://gorest.co.in/public/v1/users?page=1",
+        "next": "https://gorest.co.in/public/v1/users?page=2"
+      }
+    }
+  },
+  "data": [
+    {
+      "id": 1769,
+      "name": "Dana",
+      "email": "Gage@gmail.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 1781,
+      "name": "Tushar Varmaq",
+      "email": "tushar.varma@qa.com.br1111111111q1",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 1782,
+      "name": "Florencio",
+      "email": "Asa@gmail.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 71,
+      "name": "Kamla Dubashi",
+      "email": "kamla_dubashi@waters.name",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 72,
+      "name": "Devak Nehru Ret.",
+      "email": "nehru_ret_devak@toy.biz",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 73,
+      "name": "Chaturbhuj Guneta",
+      "email": "guneta_chaturbhuj@dare.io",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 14,
+      "name": "New Dharani Mehrotra",
+      "email": "new_mehrotra_dharani@hirthe.net",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 15,
+      "name": "New Bhanumati Panicker",
+      "email": "new_bhanumati_panicker@herzog.biz",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 18,
+      "name": "New Chandra Naik",
+      "email": "new_chandra_naik@berge-altenwerth.name",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 22,
+      "name": "New Rahul Kaul",
+      "email": "new_rahul_kaul@wilkinson-langosh.info",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 32,
+      "name": "Parvati Patil",
+      "email": "parvati_patil@padberg.com",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 31,
+      "name": "Veda Bhattathiri",
+      "email": "veda_bhattathiri@hoppe-wintheiser.org",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 1,
+      "name": "Osanda",
+      "email": "osa@gmail.com",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 50,
+      "name": "Deeptimoyee Talwar",
+      "email": "talwar_deeptimoyee@treutel.io",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 27,
+      "name": "New Aaryan Guneta",
+      "email": "new_aryan_guneta@connelly.info",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 44,
+      "name": "Chaaruchandra Nambeesan",
+      "email": "chaaruchandra_nambeesan@gutmann-hyatt.org",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 28,
+      "name": "New Baalaaditya Acharya",
+      "email": "new_baalaaditya_acharya@stokes.info",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 29,
+      "name": "New Aaryan Guneta VM",
+      "email": "new_vm_guneta_aaryan@thompson.io",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 34,
+      "name": "New The Hon. Guru Nayar",
+      "email": "new_nayar_the_hon_guru@glover.co",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 49,
+      "name": "Aatmaj Prajapat",
+      "email": "prajapat_aatmaj@runolfsson.co",
+      "gender": "female",
+      "status": "inactive"
+    }
+  ]
+}
